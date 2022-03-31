@@ -1,2 +1,0 @@
-# projektStrona-Baza
-strona-baza
